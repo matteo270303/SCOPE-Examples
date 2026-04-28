@@ -1,9 +1,9 @@
-# BrainDev AI – Generated Web Application Outputs (Gemini 2.5 Pro)
+# SCOPE – Generated Web Application Outputs (Gemini 2.5 Pro)
 
 ![Framework Architecture](docs/architecture.png)
 
 
-This repository contains the complete set of artifacts produced during a single **end-to-end web application generation** using **BrainDev AI** with **Gemini 2.5 Pro** as the underlying Large Language Model.
+This repository contains the complete set of artifacts produced during a single **end-to-end web application generation** using **SCOPE** with **Gemini 2.5 Pro** as the underlying Large Language Model.
 
 The repository is intended to support **reproducibility, transparency, and qualitative inspection** of the generation pipeline described in the associated research paper. All outputs correspond to the execution of the framework on a real-world prompt and are provided *as-is*, without manual post-editing.
 
@@ -23,7 +23,7 @@ The goal of this repository is to:
 ## 2. Model and Configuration
 
 - **Large Language Model:** Gemini 2.5 Pro  
-- **Framework:** BrainDev AI  
+- **Framework:** SCOPE  
 - **Methodology:** Extended Self-Planning  
 
 All outputs were generated in a single run of the framework.
@@ -32,7 +32,7 @@ All outputs were generated in a single run of the framework.
 
 ## 3. Repository Structure
 
-The repository contains a set of text files, each corresponding to the output of a specific module in the BrainDev AI pipeline: Prompt Engineering Module, Project Plan Module, Taks Generation Module and Code generation Module.
+The repository contains a set of text files, each corresponding to the output of a specific module in the SCOPE pipeline: Prompt Engineering Module, Project Plan Module, Taks Generation Module and Code generation Module.
 
 Each file represents the **direct output of one pipeline stage**, in the exact order executed by the framework.
 
